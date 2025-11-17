@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Milanto
 
-<!--
-**milanto-hery/milanto-hery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Machine Learning Specialist and Environmental Data Scientist passionate about building AI tools that support conservation, sustainable development, and real-world decision-making.
 
-Here are some ideas to get you started:
+## 🌟 What I Do
+- 🤖 Machine Learning & Deep Learning (PyTorch, TensorFlow)
+- 🌍 Environmental & Ecological Data Analysis  
+- 📊 Time-series forecasting & sensor data modeling  
+- 🛠️ Edge AI applications with Raspberry Pi, microcontrollers, and embedded systems  
+- 🛰️ Remote sensing (image classification & land-use analysis)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Current Projects
+- 🎧 *Automaed Passive Acoustic Monitoring*: Convolution Neural Networks for animal species call detection  
+- 📷 *Edge-AI Camera Monitoring*: Raspberry Pi system setup for real-time animal detection using computer vision
+
+## 🛠️ Tech Stack
+**Languages:** Python, R, Bash  
+**DL/ML:** TensorFlow, Keras, PyTorch, scikit-learn  
+**Tools:** Git, Linux, Jupyter  
+**Cloud:** Google Cloud  
+**Hardware:** Raspberry Pi
+
+## 📫 Get in Touch
+- Email: milanto@aims.ac.za  
+- LinkedIn: [linkedin.com/in/alex-doe](https://www.linkedin.com/in/milanto-ferdinand-rasolofohery-673258223/)  
+
