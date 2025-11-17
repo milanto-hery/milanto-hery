@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Milanto
 
-I'm a Machine Learning Specialist and Environmental Data Scientist passionate about building AI tools that support conservation, sustainable development, and real-world decision-making.
+I'm passionate about building Artificial Intelligence tools that support ecological conservation and biodiversity monitoring.
 
 ## 🌟 What I Do
 - 🤖 Machine Learning & Deep Learning for Ecology
