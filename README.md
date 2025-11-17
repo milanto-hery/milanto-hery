@@ -33,5 +33,5 @@ I'm a Machine Learning Specialist and Environmental Data Scientist passionate ab
 
 ## 📫 Get in Touch
 - Email: milanto@aims.ac.za  
-- LinkedIn: [linkedin.com/in/alex-doe](https://www.linkedin.com/in/milanto-ferdinand-rasolofohery-673258223/)  
+- LinkedIn: [linkedin.com/in/milanto](https://www.linkedin.com/in/milanto-ferdinand-rasolofohery-673258223/)  
 
