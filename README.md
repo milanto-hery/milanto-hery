@@ -22,8 +22,8 @@ I'm a Machine Learning Specialist and Environmental Data Scientist passionate ab
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="50" title="Matplotlib"/>
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="50" title="Seaborn"/>
+  <img src="https://github.com/matplotlib/matplotlib/blob/main/doc/_static/logo2.svg" height="50" />
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50" />
   
 
   <!-- Tools -->
