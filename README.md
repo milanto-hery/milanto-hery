@@ -3,14 +3,14 @@
 I'm a Machine Learning Specialist and Environmental Data Scientist passionate about building AI tools that support conservation, sustainable development, and real-world decision-making.
 
 ## 🌟 What I Do
-- 🤖 Machine Learning & Deep Learning (PyTorch, TensorFlow)
+- 🤖 Machine Learning & Deep Learning for Ecology
 - 🌍 Environmental & Ecological Data Analysis  
 - 📊 Time-series forecasting & sensor data modeling  
 - 🛠️ Edge AI applications with Raspberry Pi, microcontrollers, and embedded systems  
 - 🛰️ Remote sensing (image classification & land-use analysis)
 
 ## 🔬 Current Projects
-- 🎧 *Automaed Passive Acoustic Monitoring*: Convolution Neural Networks for animal species call detection  
+- 🎧 *Automated Passive Acoustic Monitoring*: Trained Convolution Neural Networks for animal species call detection  
 - 📷 *Edge-AI Camera Monitoring*: Raspberry Pi system setup for real-time animal detection using computer vision
 
 ## 🛠️ Tech Stack
@@ -29,9 +29,4 @@ I'm a Machine Learning Specialist and Environmental Data Scientist passionate ab
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
 </p>
-
-
-## 📫 Get in Touch
-- Email: milanto@aims.ac.za  
-- LinkedIn: [linkedin.com/in/milanto](https://www.linkedin.com/in/milanto-ferdinand-rasolofohery-673258223/)  
 
