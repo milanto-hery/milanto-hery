@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Milanto
 
-I'm passionate about building Artificial Intelligence tools that support ecological conservation and biodiversity monitoring.
+I'm passionate about building Artificial Intelligence and deep learning models to support ecological and biodiversity monitoring, climate science, remote sensing, medicine, Agriculture, and precision farming.
 
 ## 🌟 What I Do
 - 🤖 Machine Learning & Deep Learning for Ecology
