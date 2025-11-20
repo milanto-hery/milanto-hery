@@ -34,5 +34,7 @@ I'm passionate about building Artificial Intelligence tools that support ecologi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="50"/>
+  <img src="https://www.sonicvisualiser.org/images/svlogo.svg" height="60"/>
+
 </p>
 
