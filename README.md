@@ -12,6 +12,7 @@ I'm passionate about building artificial intelligence (AI) and deep learning mod
 ## 🔬 Current Projects
 - 🎧 *Automated Passive Acoustic Monitoring*: Trained Convolution Neural Networks for animal species call detection  
 - 📷 *Edge-AI Camera Monitoring*: Raspberry Pi system setup for real-time animal detection using computer vision
+- 📥 *Data Compression Algorithms for bioacoustics*: compressed sensing, MP3, FLAC, AAC, Ogg, Opus
 
 ## 🛠️ Tech Stack
 
