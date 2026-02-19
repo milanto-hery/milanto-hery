@@ -2,14 +2,14 @@
 
 I'm passionate about building artificial intelligence (AI) and deep learning models to support ecological and biodiversity monitoring, climate science, remote sensing, medicine, Agriculture, and precision farming.
 
-## 🔬 Current Projects
+## Current Projects
 - 🎧 *Automated Passive Acoustic Monitoring*: Trained Convolution Neural Networks for animal species call detection  
 - 📷 *Edge-AI Camera Monitoring*: Raspberry Pi system setup for real-time animal detection using computer vision
 - 📥 *Data Compression Algorithms for bioacoustics*: compressed sensing, MP3, FLAC, AAC, Ogg, Opus
 - 📊 Time-series forecasting & sensor data modeling
 - 🛰️ Remote sensing (image classification & land-use analysis)
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="left">
   <!-- ML & AI -->
