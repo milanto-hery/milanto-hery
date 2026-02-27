@@ -59,8 +59,8 @@ Leveraging Deep Learning to solve critical challenges in biodiversity, precision
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=milanto-hery&theme=radical&show_icons=true" alt="Milanto's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=milanto-hery&theme=radical&show_icons=true&count_private=true" alt="Milanto's GitHub Stats" />
   <br/>
   <br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=milanto-hery&theme=radical&layout=compact" alt="Milanto's Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=milanto-hery&theme=radical&layout=compact&count_private=true&langs_count=10" alt="Milanto's Top Languages" />
 </p>
