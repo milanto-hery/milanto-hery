@@ -28,14 +28,6 @@ Leveraging Deep Learning to solve critical challenges in biodiversity, precision
 
 <br/>
 
-> **📌 Recommended Pinned Repositories:** For maximum profile impact, I recommend pinning the following 6 repositories to your overview pane:
-> 1. `bayesian-bioacoustic` (Conservation / Advanced AI)
-> 2. `compressed-sensing-audio` (Original Signals Research)
-> 3. `bioacoustic-detection-pipeline` (Core Bioacoustics)
-> 4. `bird-detector-pi` (Hardware/Edge Integration)
-> 5. `chest-xray-cnn` (Medical Imaging)
-> 6. `Few-Shot-Learning` (Advanced Theory / Agility)
-
 ---
 
 ## 🛠️ Professional Tech Stack
