@@ -1,6 +1,6 @@
 # Milanto | Data Scientist for Conservation & Sustainability 🌍
 
-Leveraging Deep Learning to solve critical challenges in biodiversity, precision farming, and climate resilience. I'm passionate about building artificial intelligence (AI) and deep learning models to support ecological and biodiversity monitoring, climate science, remote sensing, medicine, Agriculture, and precision farming.
+I'm passionate about building artificial intelligence (AI) and deep learning models to support ecological and biodiversity monitoring, climate science, remote sensing, medicine, Agriculture, and precision farming.
 
 ---
 
