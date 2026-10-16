@@ -49,13 +49,6 @@ I'm passionate about building artificial intelligence (AI) and deep learning mod
 
 ---
 
-## 🚀 Future Roadmap: What I'm building next
-
-- **Multimodal AI (Satellite + Audio)**: Integrating Earth observation indices (NDVI, etc.) with passive acoustic landscapes.
-- **Large-scale Bioacoustics**: Developing scalable pipelines for analyzing terabytes of environmental continuous recordings.
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
